@@ -2,4 +2,4 @@
 
 Welcome to my hello world repo!
 
-![hello](./images/hello1.jpeg)
+![hello](images/Hello1.jpeg)
